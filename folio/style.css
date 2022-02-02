@@ -1186,7 +1186,7 @@ pre {
       will-change: transform !important;
       background: rgba(247, 246, 251, 0.1) !important;
       margin-top: 1rem !important;
-      padding-bottom: 1rem !important; } */
+      padding-bottom: 0rem !important; } */
       
       .super-content .notion-collection-gallery.large .notion-collection-card:hover {
           background: transparent !important;
@@ -1283,7 +1283,7 @@ pre {
               transform: translateY(0rem) !important;
       will-change: transform !important;
       background: rgba(247, 246, 251, 0.1) !important;
-      padding-bottom: 1rem !important; }
+      padding-bottom: 0rem !important; }
       .super-content .notion-collection-gallery.medium .notion-collection-card:hover {
         transition: -webkit-transform 180ms !important;
         transition: transform 180ms !important;
@@ -1308,7 +1308,7 @@ pre {
         padding-top: 2.5rem !important;
         padding-left: 1.25rem !important;
         padding-right: 1.25rem !important;
-        padding-bottom: 1rem !important; }
+        padding-bottom: 0rem !important; }
         .super-content .notion-collection-gallery.medium .notion-collection-card .notion-property__title .notion-semantic-string {
           white-space: normal !important;
           line-height: 1.35 !important; }
